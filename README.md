@@ -6,7 +6,7 @@ DevOps from Moscow, Russian Federation.
 
 > To be filled, some day, maybe.
 
-## [Repository contents](/)
+## [Repository contents](../../)
 
 - Dotfiles
 - Template projets
