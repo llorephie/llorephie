@@ -6,7 +6,7 @@ DevOps from Moscow, Russian Federation.
 
 > To be filled, some day, maybe.
 
-## [Repository contents](/llorephie/llorephie.git)
+## [Repository contents](/)
 
 - Dotfiles
 - Template projets
